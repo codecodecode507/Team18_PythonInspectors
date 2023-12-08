@@ -1,2 +1,2 @@
 # Team_18_Python1
-Python Hackthon Tem_18
+Python Hackthon Team_18
